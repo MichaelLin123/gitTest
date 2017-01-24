@@ -1,0 +1,13 @@
+git config –global user.email mkgb7788@gmail.com
+
+mkdir gitTest
+
+cd gitTest
+
+git init
+
+touch README
+
+git add README
+
+git commit -m ‘first commit’
